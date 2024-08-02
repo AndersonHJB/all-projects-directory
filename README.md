@@ -10,63 +10,48 @@ Hello, I'm Bornforthis.
 
 ## A <a id="a"></a>
 
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/tribute-page-freecodecamp">Ada Lovelace tribute page<a/> - a simple landing page with a responsive design made with HTML, CSS & Vanilla JavaScript
+- AndersonHJB.github.io：[AndersonHJB.github.io](https://github.com/AndersonHJB/AndersonHJB.github.io)——后期准备部署第二个博客网站的站点；
+  
+- 
   
   
 ## B <a id="b"></a>
-- <a href="https://github.com/catherineisonline/bankist">Bankist<a/> - landing page made with HTML, CSS & Vanilla JavaScript
+- 
   
 ## C <a id="c"></a>
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/simple-counter">Counter<a/> - interactive counter component made with HTML, CSS & Vanilla JavaScript
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/covid19-awareness">COVID-19 awareness<a/> - a landing page with COVID-19 statistics made with HTML, CSS, Vanilla JavaScript & API
-  
+- 
 ## D <a id="d"></a>
 
 ## E <a id="e"></a>
-- <a href="https://github.com/catherineisonline/edgy">Edgy<a/> - a social media marketing website made with HTML, Tailwind & React
-- [PUBLIC ARCHIVE] [Expenseless](https://github.com/catherineisonline/expenseless) - Expenseless helps you to manage your money and track all your income & expenses effortlessly to reach your financial goals faster 
-  
+- 
 ## F <a id="f"></a>
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/faq-block-javascript">FAQ block<a/> - FAQ block made with HTML, CSS & Vanilla JavaScript
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/forkify">Forkify<a/> - Forkify is a vanilla JavaScript application that interacts with the Forkify API to fetch and display recipe food data.
-- <a href="https://github.com/catherineisonline/frontend-mentor-challenge-solutions">Frontend Mentor challenge solutions<a/> - all my Frontend Mentor challenge solutions landing pages made with HTML, Sass & Vue
-  
+- 
 ## G <a id="g"></a>
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/giveaway-countdown-js">Giveaway countdown <a/> - giveaway countdown timer block made with HTML, CSS & Vanilla JavaScript
-- [PUBLIC ARCHIVE] [Grand Theatre](https://github.com/catherineisonline/grand-theatre) - Grand Theatre is a minimalistic landing page for a theatre made with HTML, CSS & JavaScript
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/guess-my-number">Guess my number <a/> - number guessing game project made with HTML, CSS & Vanilla JavaScript
+- 
 
 
 ## M <a id="m"></a>
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/mapty-workouts">Mapty<a/> - a map application made with Vanilla JavaScript to store workouts like running and cycling.
-- [PUBLIC ARCHIVE] [Modal block](https://github.com/catherineisonline/modal-block-js) - online Gallery is a simple project to practice simple modal window pop-up with Vanilla JavaScript.
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/modal-window">Modal window<a/> - a pop-up component made with  HTML, CSS & Vanilla JavaScript
-- [Movie Time](https://github.com/catherineisonline/movies-time) - The project uses React to build a movie database application, styled with CSS, and utilizing the MovieDB API.
+- 
 
-  
+    
 ## P <a id="p"></a>
-- <a href="https://github.com/catherineisonline/personal-portfolio">Personal portfolio<a/> - a web developer portfolio made with HTML, Sass & React
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/randomcolor">Pick a random color<a/> - random color generator made with HTML, CSS & Vanilla JavaScript
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/pig-dice-game">Pig dice game<a/> - a game made with HTML, CSS & Vanilla JavaScript
-- <a href="https://github.com/catherineisonline/pizza-time-with-react">Pizza Time<a/> - multi-page food e-commerce website made with HTML, CSS & React
+- 
 
 
 ## R <a id="r"></a>
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/reviews-slider-block-js">Reviews slider<a/> - reviews slider made with HTML, CSS & Vanilla JavaScript
+- 
 
 ## S <a id="s"></a>
-- <a href="https://github.com/catherineisonline/shopping-time">Shopping Time<a/> - Shopping Time is an e-commerce website that has at least 150 women's clothing products with different sizes and color choices. Built with React
+- 
 
 ## T <a id="t"></a>
-- [PUBLIC ARCHIVE] [Tic Tac Toe](https://github.com/catherineisonline/tic-tac-toe) - Tic Tac Toe game, a classic game for two players where each player takes turns marking a grid of 3x3 squares with their X or O
-- <a href="https://github.com/catherineisonline/travel-with-catherine">Travel with Catherine<a/> - photography portfolio made with HTML, Tailwind & React
+- 
 
 ## U <a id="u"></a>
-- <a href="https://github.com/catherineisonline/useful-resources">Useful resources<a/> - a collection of different useful tools
+- 
 
 ## W <a id="u"></a>
-- [Weather Now](https://github.com/catherineisonline/weather-now) - Weather Now is a simple project that utilizes a weather API to display the current weather conditions of a specified location
-- [PUBLIC ARCHIVE] <a href="https://github.com/catherineisonline/what-todo">What to do<a/> - to do list made with HTML, CSS, React & Redux
+- 
 
 
 
