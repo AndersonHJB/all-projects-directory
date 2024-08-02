@@ -14,6 +14,9 @@ Hello, I'm Bornforthis.
 - [Private] Anderson-course：[Anderson-course](https://github.com/AndersonHJB/Anderson-course)——我的全部课程开发合集；
 - AI-Large-model：[AI-Large-model](https://github.com/AndersonHJB/AI-Large-model)——AI 大模型 Jupyter Notebook
 - aiyccdn：[aiyccdn](https://github.com/AndersonHJB/aiyccdn)——当作视频图床使用来着；
+- [Private] aiyuechuang_course：[aiyuechuang_course](https://github.com/AndersonHJB/aiyuechuang_course)——个人课程开发；
+- AIYC_DATA：[AIYC_DATA](https://github.com/AndersonHJB/AIYC_DATA)——AI悦创·公众号代码或资料；
+- 
 ## B <a id="b"></a>
 - 
   
