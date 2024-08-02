@@ -16,8 +16,13 @@ Hello, I'm Bornforthis.
 - aiyccdn：[aiyccdn](https://github.com/AndersonHJB/aiyccdn)——当作视频图床使用来着；
 - [Private] aiyuechuang_course：[aiyuechuang_course](https://github.com/AndersonHJB/aiyuechuang_course)——个人课程开发；
 - AIYC_DATA：[AIYC_DATA](https://github.com/AndersonHJB/AIYC_DATA)——AI悦创·公众号代码或资料；
-- abouthtml：[abouthtml](https://github.com/AndersonHJB/abouthtml)
+- abouthtml：[abouthtml](https://github.com/AndersonHJB/abouthtml)——一个界面；
+- AndersonHJB：[AndersonHJB](https://github.com/AndersonHJB/AndersonHJB)——GitHub 主页配置；
+- Axure-demo：[Axure-demo](https://github.com/AndersonHJB/Axure-demo)——Axure课设 rp 文件；
+- [Private] AiYc_Curriculum_resources：[AiYc_Curriculum_resources](https://github.com/AndersonHJB/AiYc_Curriculum_resources)——AI悦创·课程资源以及 PPT；
+- 
 ## B <a id="b"></a>
+
 - 
   
 ## C <a id="c"></a>
