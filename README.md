@@ -20,7 +20,6 @@ Hello, I'm Bornforthis.
 - AndersonHJB：[AndersonHJB](https://github.com/AndersonHJB/AndersonHJB)——GitHub 主页配置；
 - Axure-demo：[Axure-demo](https://github.com/AndersonHJB/Axure-demo)——Axure课设 rp 文件；
 - [Private] AiYc_Curriculum_resources：[AiYc_Curriculum_resources](https://github.com/AndersonHJB/AiYc_Curriculum_resources)——AI悦创·课程资源以及 PPT；
-- 
 ## B <a id="b"></a>
 
 - 
@@ -39,8 +38,6 @@ Hello, I'm Bornforthis.
 
 ## M <a id="m"></a>
 - 
-
-    
 ## P <a id="p"></a>
 - 
 
@@ -58,7 +55,17 @@ Hello, I'm Bornforthis.
 - 
 
 ## W <a id="u"></a>
+
 - 
+
+## Good project or GitHub Author
+
+| Number | Username                         | Link                                                         | Repo                                                         |
+| ------ | -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 01     | Ekaterine (Catherine) Mitagvaria | [https://github.com/catherineisonline](https://github.com/catherineisonline) | [https://github.com/catherineisonline/travel-with-catherine](https://github.com/catherineisonline/travel-with-catherine)——摄影主题静态网站 |
+|        |                                  |                                                              |                                                              |
+
+
 
 欢迎关注我公众号：AI悦创，有更多更好玩的等你发现！
 
